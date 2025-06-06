@@ -1,11 +1,13 @@
 # Hi there, I'm Ihab 👋
 
-<a href="https://www.linkedin.com/in/ihab-adham/">
-  <img align="left" alt="Ihab's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/ihab-adham-19705521a">
+  <img align="left" alt="Ihab's LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
+<!--
 <a href="mailto:ihabadham4@gmail.com">
-  <img align="left" alt="Ihab's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Ihab's Email" width="26px" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&labelColor=transparent" />
 </a>
+-->
 
 <br />
 <br />
@@ -40,8 +42,8 @@ I'm a Software Engineer specializing in building and deploying full-stack applic
 
 | Project                                     | Description                                                              | Tech Stack                               |
 | ------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------- |
-| **FlowFocus** (Full-Stack)                  | A productivity dashboard with tasks, notes, and a Pomodoro timer.        | `React` `Node.js` `Express` `MongoDB`    |
-| **Best One Clinic API** (Backend)           | RESTful API for a commercial beauty clinic website.                      | `Node.js` `Express` `MongoDB`            |
+| [**FlowFocus**](https://github.com/ihabadham/FlowFocus) ([Live Demo](your-live-url.com)) (Full-Stack)                  | A productivity dashboard with tasks, notes, and a Pomodoro timer.        | `React` `Node.js` `Express` `MongoDB`    |
+| [Best One Clinic](https://bestoneclinic.com) **API** (Backend)           | RESTful API for a commercial beauty clinic website.                      | `Node.js` `Express` `MongoDB`            |
 <!-- | **[Your Next Project]**                     | [Brief, exciting description of what you're building next.]              | `[Tech]` `[Tech]`                        | -->
 
 ---
