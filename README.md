@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm a Software Engineer specializing in building and deploying full-stack applications with the MERN stack. I'm passionate about writing clean, efficient code to solve real-world problems.
+I'm a Software Engineer specializing in building and deploying full-stack applications with the MERN stack web development. I'm passionate about writing clean, efficient code to solve real-world problems.
 
 ---
 
